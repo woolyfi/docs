@@ -1,3 +1,3 @@
 # Wooly.Finance Documentation
 
-Please see the [wiki](https://github.com/woolyfi/docs/wiki/Wooly.Finance).
+Please see the [wiki](https://github.com/woolyfi/docs/wiki).
